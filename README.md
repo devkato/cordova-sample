@@ -6,6 +6,10 @@ npm -g install cordova ios-sim
 source ~/.zshrc
 ```
 
+## cordovaコマンドについて
+
+[Cordova Command-Line Interface](http://docs.phonegap.com/en/edge/guide_cli_index.md.html#The%20Command-Line%20Interface)
+
 ## 起動方法
 
 ### iOS
